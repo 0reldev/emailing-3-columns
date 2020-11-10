@@ -6,6 +6,8 @@ Responsive template for adverstising newsletters with a three-column block.
 
 The challenge is to design a newsletter which can be displayed for every mail client and on every supports. 
 
+Based on the hybrid template givent on [Cerberus](https://tedgoas.github.io/Cerberus/) website, I worked on this specific version ordered by a client during my internship in a web agency.
+
 This HTML file has been has been successfully tested on [testi.at](https://testi.at/) website with the following webclients:
 
 Desktop Client:
